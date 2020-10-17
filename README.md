@@ -12,8 +12,8 @@ simply run the shell script `run.sh`.
 
 This makes the call:
 `python3 othello_gui.py -d 8 -a ai_agent.py -c -o -l 6`
-`-d`: board size (ie 8x8)
-`-a`: agent file location
-`-c`: use caching
-`-o`: use ordering heuristics
-`-l`: depth limit (ie depth of 6). Reduce for less processing time and "easier" opponent.
+  - `-d`: board size (ie 8x8)
+  - `-a`: agent file location
+  - `-c`: use caching
+  - `-o`: use ordering heuristics
+  - `-l`: depth limit (ie depth of 6). Reduce for less processing time and "easier" opponent.
