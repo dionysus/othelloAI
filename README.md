@@ -1,5 +1,5 @@
 # othelloAI
-Making an Othello AI bot.
+Making IAGO, the Othello AI bot.
 
 ![screenshot](othelloAI.png)
 
@@ -20,4 +20,4 @@ This script makes the call:
 
 ## Play
 
-The first player (the human in this case), will be playing dark coins, and has the name "Iago AI" (the Othello killer). Select moves with the cursor. The dialog will show the moves made as coordinates, with "Invalid Move" displayed if a player selects an invalid spot. The score is kept at the top of the screen. The AI may timeout after a set time (to avoid lengthy stalled games) usually if the solution search depth is set too high. The game will end if the AI times out or no further moves can be made.
+The first player (the human in this case), will be playing dark coins, and has the name "IAGO AI" (the Othello killer). Select moves with the cursor. The dialog will show the moves made as coordinates, with "Invalid Move" displayed if a player selects an invalid spot. The score is kept at the top of the screen. The AI may timeout after a set time (to avoid lengthy stalled games) usually if the solution search depth is set too high. The game will end if the AI times out or no further moves can be made.
